@@ -1,0 +1,15 @@
+streamlit>=1.35.0
+google-auth>=2.29.0
+google-auth-oauthlib>=1.2.0
+google-api-python-client>=2.130.0
+playwright>=1.44.0
+ollama>=0.2.1
+pandas>=2.2.0
+pillow>=10.3.0
+python-dotenv>=1.0.1
+schedule>=1.2.2
+requests>=2.32.0
+beautifulsoup4>=4.12.3
+lxml>=5.2.1
+loguru>=0.7.2
+pydantic>=2.7.0
