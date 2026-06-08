@@ -4,6 +4,24 @@ Fully automated internship discovery and application system — runs locally, us
 
 ---
 
+## 📸 Dashboard & Screenshots
+
+![Internship Agent Dashboard](https://via.placeholder.com/1200x600?text=Dashboard+Overview)
+
+The dashboard gives you complete control over the entire workflow:
+
+- **Dashboard Overview**: Real-time stats (72 opportunities found, 43 pending review, 4 submitted, 25 rejected, 70% avg match score)
+- **Awaiting Your Approval**: Review AI-scored opportunities with match percentages before submission
+- **Recent Activity Log**: Track all agent actions — cycle completions, matches, skipped applications, resume uploads, extractions, approvals, and form preparations
+- **Profile Management**: One-time setup for your name, email, skills, CGPA, university, degree, LinkedIn, GitHub, portfolio
+- **Resume Library**: Upload multiple resumes with custom tags (e.g., "ML/Data Science", "Frontend Dev") — agent picks the best match for each opportunity
+- **Settings Panel**: Configure AI model, match threshold, email check frequency, auto-submit mode
+- **Logs & History**: Full audit trail of every agent action with timestamps
+
+**Once you set up your profile and upload resumes, you never enter them again.** The agent remembers everything and applies with your data automatically.
+
+---
+
 ## ✨ What It Does
 
 | Step | What Happens |
