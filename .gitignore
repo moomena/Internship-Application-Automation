@@ -10,6 +10,7 @@ build/
 data/
 logs/
 screenshots/
+resumes/
 client_secret_*.json
 *.log
 .env
